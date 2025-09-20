@@ -3,7 +3,7 @@
   <h5><i>Best Practice for Serverless Self-Deployed Subscription Conversion Tool</i></h5>
   
   <a href="https://trendshift.io/repositories/12291" target="_blank">
-    <img src="https://trendshift.io/api/badge/repositories/12291" alt="7Sageer%2Fsublink-worker | Trendshift" width="250" height="55"/>
+    <img src="https://trendshift.io/api/badge/repositories/12291" alt="qin9125%2Fsublink-worker | Trendshift" width="250" height="55"/>
   </a>
   
   <!-- <p>
@@ -72,8 +72,8 @@ For detailed API documentation, please refer to [APIDoc.md](/docs/APIDoc.md)
 
 ### 2025-05-02
 
-- Automatic renaming is now applied when proxies with the same name exist ([#175](https://github.com/7Sageer/sublink-worker/pull/175))
-- Fixed DNS configuration for Singbox ([#174](https://github.com/7Sageer/sublink-worker/pull/174))
+- Automatic renaming is now applied when proxies with the same name exist ([#175](https://github.com/qin9125/sublink-worker/pull/175))
+- Fixed DNS configuration for Singbox ([#174](https://github.com/qin9125/sublink-worker/pull/174))
 
 ## 🔧 Project Structure
 
@@ -126,17 +126,17 @@ This project is for learning and exchange purposes only. Please do not use it fo
   </tr>
 </table>
   <p><b>NodeSupport has sponsored this project, thank you for your support!</b></p>
-  <p>If you would like to sponsor this project, please contact the developer <a href="https://github.com/7Sageer" style="text-decoration: none;">@7Sageer</a></p>
+  <p>If you would like to sponsor this project, please contact the developer <a href="https://github.com/qin9125" style="text-decoration: none;">@qin9125</a></p>
 </div>
 
 ## ⭐ Star History
 
 Thanks to everyone who has starred this project! 🌟
 
-<a href="https://star-history.com/#7Sageer/sublink-worker&Date">
+<a href="https://star-history.com/#qin9125/sublink-worker&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=7Sageer/sublink-worker&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=7Sageer/sublink-worker&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=7Sageer/sublink-worker&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=qin9125/sublink-worker&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=qin9125/sublink-worker&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=qin9125/sublink-worker&type=Date" />
  </picture>
 </a>
